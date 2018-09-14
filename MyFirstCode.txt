@@ -1,2 +1,5 @@
 hello world
-"The faculty of Information and Commu- nication Technology"
+"The faculty of Information and Commu- nication Technology
+"This is my new feature
+"my commit to the myNewFeature branch"
+"add from the master"
